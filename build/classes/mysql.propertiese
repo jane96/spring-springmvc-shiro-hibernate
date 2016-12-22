@@ -1,0 +1,7 @@
+jdbcUrl = jdbc:mysql://localhost:3306/myoa?characterEncoding=utf8&serverTimezone=UTC
+
+driverClass = com.mysql.jdbc.Driver
+
+user = jane96
+
+password = 1223
